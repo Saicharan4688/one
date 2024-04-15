@@ -9,7 +9,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">ButterFly ButterFly where are you going </h1>
 	<h2 style="color: purple; font-size: 40px;" align="center"> Arey enti ra idhi </h2>
-        <h2 style="color: organe; font-size: 40px;" align="center"> Egiri thanta nee akka </h2>
+        <h2 style="color: orange; font-size: 40px;" align="center"> Egiri thanta nee akka </h2>
 	
 	
 	
